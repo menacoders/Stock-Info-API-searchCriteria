@@ -8,6 +8,8 @@ https://github.com/magento/magento2/issues/22737
 # the solution !
 Now it's return all stock info about the products when you are using searchCriteria.
 
+![stock info](/stock-info-api.png)
+
 # how to install?
 just upload the module files to this directory 
 /app/code/Menacoders/Stock

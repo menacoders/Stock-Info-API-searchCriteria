@@ -12,12 +12,12 @@ Now it's return all stock info about the products when you are using searchCrite
 just upload the module files to this directory 
 /app/code/Menacoders/Stock
 
-* run these commands *
+Run these commandds
 
-php bin/magento setup:upgrade
-php bin/magneto index:reindex
-php bin/magento c:c
-php bin/magento c:f
+* php bin/magento setup:upgrade
+* php bin/magneto index:reindex
+* php bin/magento c:c
+* php bin/magento c:f
 
 
 # Contact us:
